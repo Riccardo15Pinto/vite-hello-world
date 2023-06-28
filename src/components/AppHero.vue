@@ -9,7 +9,7 @@ export default {
 </script>
 
 <template>
-    <h1>ciaooooo</h1>
+    <img src="https://staticg.sportskeeda.com/editor/2022/01/9441c-16419200856280-1920.jpg" alt="">
 </template>
 
 <style></style>
