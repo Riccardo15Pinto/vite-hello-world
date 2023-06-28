@@ -9,7 +9,7 @@ export default {
 </script>
 
 <template>
-    <h1>ciao</h1>
+    <h1>Nezuko Channnnnnn</h1>
 </template>
 
 <style></style>
